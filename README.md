@@ -1,5 +1,8 @@
 # Rainmaker
 
+> Rainmaker is a Rust CLI for **high-throughput token distribution, NFT minting, and Uniswap V3 swaps** on Monad testnet/mainnet with configurable TPS and batching.
+
+
 A Rust tool for distributing native tokens, minting NFTs, and executing swaps with configurable throughput
 
 ## Quick Start
