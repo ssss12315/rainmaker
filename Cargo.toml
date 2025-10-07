@@ -1,3 +1,4 @@
 [workspace]
 resolver = "2"
 members = ["distribution"]
+description = "High-frequency transaction submission & distribution CLI for Monad (native transfers, NFT minting, Uniswap V2 swaps) with configurable TPS and batching."
