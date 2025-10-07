@@ -1,0 +1,11 @@
+core:
+  rpc_urls:
+    - "https://testnet-rpc.monad.xyz"
+  target_tps: 300
+  rpc_batch_size: 80
+  distribution_type: "native-direct"
+  addresses_file: "addresses.txt"
+
+token:
+  amount_per_address_low:  0.00001
+  amount_per_address_high: 0.00002
